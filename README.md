@@ -42,7 +42,6 @@ Note : Purpose of this project is pratice for creating news recommendation syste
                                     ** run (2) first
                                     
               (4)@app.route('/news/recent') result must be title and content of top top 5 recent news
-              (4.1)@app.route('/news/recent2/')result must be title, comment and content of top 5 most commented news
               
               (5)
               @app.route('/comment/search/<keyword>')?page=*&pagesize=**

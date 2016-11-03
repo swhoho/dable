@@ -48,7 +48,7 @@ Note : Purpose of this project is pratice for creating news recommendation syste
               @app.route('/comment/search/<keyword>')?page=*&pagesize=**
                                     based on the page # and pagesize, this function provied comments that realted to keyword
                                     * number of pages
-                                    * number of comments in one page
+                                    ** number of comments in * page
                                     
                                       
               (6)

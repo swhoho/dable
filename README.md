@@ -52,10 +52,11 @@ Note : Purpose of this project is pratice for creating news recommendation syste
                                     
                                       
               (6)
-              @app.route('/news/rec')?*
-                                  based on word2vec, this result provides you related news of *
+              @app.route('/news/rec')?url=*
+                                  based on word2vec, result provides you related news of *
                                   * can be url or the aid number**  (ex)aid = 0008797715)
                                   ** aid number is the last 10 digit of IT News url.
+                                  please check use your similarity table data to perform this api.
                                   
 (do not run/operate files below)
 -newsdao.py : code to save and operate api function from webserver.py 

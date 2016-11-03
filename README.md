@@ -56,7 +56,7 @@ Note : Purpose of this project is pratice for creating news recommendation syste
                                   * can be url or the aid number**  (ex)aid = 0008797715)
                                   ** aid number is the last 10 digit of IT News url.
                                   
-#(do not run/operate the file below)
+(do not run/operate files below)
 -newsdao.py : code to save and operate api function from webserver.py 
               ^(change server = ')
               
